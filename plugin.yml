@@ -1,0 +1,6 @@
+name: Envanter-Koruma
+author: OzdemirZ
+main: androcyber\Main
+version: 1.0
+api:
+- 4.2.1
